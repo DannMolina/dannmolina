@@ -1,5 +1,4 @@
 ### 👋👽
-![image](https://user-images.githubusercontent.com/47142089/232676784-71be1720-f99e-4fb1-8a9c-ea021fb86ec4.png)
 
 <!--
 **DannMolina/dannmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
