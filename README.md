@@ -1,5 +1,7 @@
 ### 👋👽
 Why so serious? Have some fun ✨
+
+Hey there! I'm just your laid-back tech explorer with around 5 years of hacking away at the keyboard in the enterprise realm. By day, I'm a code ninja, unraveling the mysteries of the tech industry. But when the sun sets, you'll find me mastering the art of catching Z's – because, let's be real, sleep is my favorite tech of all. 😴💻
 <!--
 **DannMolina/dannmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
