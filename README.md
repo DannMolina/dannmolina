@@ -41,14 +41,12 @@ _"Code doesn't lie. People do. And people are terrible."_
 
 </div>
 
----
-
 ## 🚀 Current Status
 
-- 🔭 **Building** enterprise applications that will probably be deprecated in 3 years
-- 🌱 **Learning** new frameworks that will be obsolete by the time I master them
-- 💡 **Optimizing** code that nobody will ever read or understand
-- 🎯 **Debugging** production issues at 3 AM because apparently sleep is for the weak
+- **Building** enterprise applications that will probably be deprecated in 3 years
+- **Learning** new frameworks that will be obsolete by the time I master them
+- **Optimizing** code that nobody will ever read or understand
+- **Debugging** production issues at 3 AM because apparently sleep is for the weak
 
 <!-- ## 🎯 Contact _(If you must)_ -->
 
