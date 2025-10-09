@@ -27,6 +27,12 @@ _"Code doesn't lie. People do. And people are terrible."_
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://mobx.js.org/assets/mobx.png" width="40" height="40" style="margin: 0 10px;" />
 
 </div>
 
@@ -38,6 +44,20 @@ _"Code doesn't lie. People do. And people are terrible."_
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin: 0 10px;" />
+
+</div>
+
+### **DevOps & Cloud** _(Because apparently we need to pretend we understand infrastructure)_
+
+<div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin: 0 10px;" />
 
 </div>
 
