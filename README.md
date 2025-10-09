@@ -12,7 +12,7 @@ _"Code doesn't lie. People do. And people are terrible."_
 
 ### **Core Technologies** _(The ones that actually matter 💰)_
 
-<div align="center">
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="margin: 0 10px;" />
@@ -23,7 +23,7 @@ _"Code doesn't lie. People do. And people are terrible."_
 
 ### **Frontend & Mobile** _(Because users need pretty things to click)_
 
-<div align="center">
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" style="margin: 0 10px;" />
@@ -32,7 +32,7 @@ _"Code doesn't lie. People do. And people are terrible."_
 
 ### **Backend & Data** _(Where the real work happens)_
 
-<div align="center">
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 0 10px;" />
