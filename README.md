@@ -58,6 +58,7 @@ _"Code doesn't lie. People do. And people are terrible."_
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original" width="40" height="40" style="margin: 0 10px;" />
 
 </div>
 
