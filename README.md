@@ -32,7 +32,7 @@ _"Code doesn't lie. People do. And people are terrible."_
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40" height="40" style="margin: 0 10px;" />
 <img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" width="40" height="40" style="margin: 0 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" style="margin: 0 10px;" />
-<img src="https://mobx.js.org/assets/mobx.png" width="40" height="40" style="margin: 0 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" style="margin: 0 10px;" />
 
 </div>
 
