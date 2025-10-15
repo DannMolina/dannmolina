@@ -1,8 +1,6 @@
 ### 👋 I'm Dann
 
-**Senior Software Engineer** - because apparently we need titles to validate our existence in this meaningless corporate hierarchy.
-
-<!-- _Currently plotting my escape to Mars because Earth's codebase is beyond repair._ 🚀 -->
+_Currently plotting my escape to Mars because Earth's codebase is beyond repair._ 🚀 
 
 <!-- **Senior Software Engineer** - because apparently we need titles to validate our existence in this meaningless corporate hierarchy.
 
